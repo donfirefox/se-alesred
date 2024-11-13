@@ -20,10 +20,14 @@ traffic_Data
 ## Instalación 
 
 git clone https://github.com/donfirefox/se-alesred.git
+
 cd se-alesred
+
 code .
+
 
 ## Dependencias
 
 pip install torch torchvision pandas pillow
+
 
